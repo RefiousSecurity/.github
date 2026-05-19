@@ -21,22 +21,6 @@ We focus on identifying critical vulnerabilities before they become exploits.
 
 ---
 
-## Research Domains
-
-### EVM Security
-Advanced analysis of Solidity-based systems, protocol logic, and exploit primitives.
-
-### Cross-Chain Infrastructure
-Bridge architecture, messaging assumptions, liquidity routing, settlement systems, and interoperability risks.
-
-### DeFi Protocols
-AMMs, vaults, lending systems, treasury mechanics, liquidity layers, and protocol economics.
-
-### Adversarial Research
-Real-world exploit analysis, attack simulation, and vulnerability discovery across modern Web3 systems.
-
----
-
 ## Private Inquiries & Audits
 We prioritize confidentiality, protocol safety, and high-trust delivery. For private assessment requests, scoping, or technical engagement, contact our operations desk directly:
 
