@@ -10,5 +10,3 @@ Focused on:
 * Cross-chain infrastructure
 * DeFi protocols
 * Protocol resilience
-
-Currently building public research, audit workflows, and security tooling.
